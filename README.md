@@ -2,7 +2,7 @@
 
 ⚠️ **Aviso**: este repositório contém uma **ideia inicial**. O código **não representa a versão final** do projeto e existe principalmente para registrar a lógica, a motivação e os primeiros passos da solução.
 
-## 📌 Contexto
+## Contexto
 
 Trabalhando em gráficas como **designer gráfico**, era comum precisar gerar orçamentos de materiais com frequência (impressões, acabamentos, quantidades, valores unitários, etc.). Esse processo normalmente era feito de forma manual, utilizando calculadora e anotações rápidas.
 
@@ -14,7 +14,7 @@ Com o uso repetitivo e a pressão do dia a dia, erros humanos simples acabavam a
 
 Mesmo erros pequenos podem impactar diretamente o valor final de um orçamento.
 
-## 💡 Ideia do Projeto
+## Ideia do Projeto
 
 A proposta deste projeto é **automatizar o cálculo de orçamentos utilizando Python**, transferindo a responsabilidade dos cálculos para o computador.
 
@@ -26,22 +26,22 @@ Em vez de cálculos manuais rápidos, o fluxo passa a ser:
 2. deixar o programa realizar as contas;
 3. obter um resultado consistente e reproduzível.
 
-## 🎯 Objetivos
+## Objetivos
 
 * Reduzir erros humanos em cálculos de orçamento
 * Padronizar a forma de calcular valores
 * Facilitar revisões e conferências
 * Criar uma base para futuras melhorias (interface gráfica, salvamento de orçamentos, etc.)
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 * **Python** (projeto inicial)
 
-## 📂 Status do Projeto
+## Status do Projeto
 
-🚧 **Em estágio inicial / conceitual**
+**Em estágio inicial / conceitual**
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 Meus próximos passos para evoluir o projeto incluem:
 
@@ -49,7 +49,7 @@ Meus próximos passos para evoluir o projeto incluem:
 * Exportação do orçamento em PDF;
 * Implantar interatividade com JavaScript.
 
-🚧 **Em estágio inicial / conceitual**
+**Em estágio inicial / conceitual**
 
 Este repositório existe principalmente para:
 
@@ -57,7 +57,7 @@ Este repositório existe principalmente para:
 * armazenar a lógica inicial;
 * servir como referência para versões futuras.
 
-## 📝 Observações
+## Observações
 
 Este projeto nasceu de uma **necessidade real do dia a dia profissional** e reflete uma tentativa de usar programação como ferramenta de apoio ao trabalho, priorizando precisão, clareza e confiabilidade nos resultados.
 
